@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (4.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  pro12.c
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(27,9): warning C4477: 'scanf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int (*)[9]'입니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(62,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(63,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(64,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(65,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\4\pro12.c(66,9): warning C4477: 'printf' : 서식 문자열 '%s'에 'char *' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'int *'입니다.
+  4.vcxproj -> D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\4\Debug\4주차.exe

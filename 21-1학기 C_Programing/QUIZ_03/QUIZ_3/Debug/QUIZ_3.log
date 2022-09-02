@@ -1,0 +1,3 @@
+﻿  pro2.c
+D:\Geun\세종대\코딩\QUIZ_3\QUIZ_3\pro2.c(6,22): warning C4101: 'c' :참조되지 않은 지역 변수입니다.
+  QUIZ_3.vcxproj -> D:\Geun\세종대\코딩\QUIZ_3\Debug\QUIZ_3.exe

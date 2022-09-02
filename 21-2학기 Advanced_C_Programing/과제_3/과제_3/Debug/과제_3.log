@@ -1,0 +1,4 @@
+﻿  pro4.c
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\과제_3\과제_3\pro4.c(134,24): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\과제_3\과제_3\pro4.c(136,28): warning C4244: '+=': 'double'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  과제_3.vcxproj -> D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\과제_3\Debug\과제_3.exe

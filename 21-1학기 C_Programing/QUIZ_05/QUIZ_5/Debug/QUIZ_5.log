@@ -1,0 +1,4 @@
+﻿  pro2.c
+D:\Geun\코딩\C언어 코딩\QUIZ_5\QUIZ_5\pro2.c(7,32): warning C4101: 'res4' :참조되지 않은 지역 변수입니다.
+D:\Geun\코딩\C언어 코딩\QUIZ_5\QUIZ_5\pro2.c(7,26): warning C4101: 'res3' :참조되지 않은 지역 변수입니다.
+  QUIZ_5.vcxproj -> D:\Geun\코딩\C언어 코딩\QUIZ_5\Debug\QUIZ_5.exe

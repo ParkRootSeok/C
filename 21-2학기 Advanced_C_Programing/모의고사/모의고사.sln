@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "모의고사", "모의고사\모의고사.vcxproj", "{5490FFD1-5B15-451A-B47E-9461F698C9AC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Debug|x64.ActiveCfg = Debug|x64
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Debug|x64.Build.0 = Debug|x64
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Debug|x86.ActiveCfg = Debug|Win32
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Debug|x86.Build.0 = Debug|Win32
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Release|x64.ActiveCfg = Release|x64
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Release|x64.Build.0 = Release|x64
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Release|x86.ActiveCfg = Release|Win32
+		{5490FFD1-5B15-451A-B47E-9461F698C9AC}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {548E7996-F634-4BB6-88AD-551FEAD8BBBF}
+	EndGlobalSection
+EndGlobal

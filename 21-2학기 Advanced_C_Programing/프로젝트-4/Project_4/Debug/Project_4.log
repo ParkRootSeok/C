@@ -1,0 +1,6 @@
+﻿  RegFromFile.c
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\프로젝트-4\Project_4\my_struct.h(10,2): warning C4091: 'typedef ': 변수를 선언하지 않으면 'tel' 왼쪽은 무시됩니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\프로젝트-4\Project_4\RegFromFile.c(17,53): warning C4098: 'RegFromFile': 'void' 함수에서 값을 반환하고 있습니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\프로젝트-4\Project_4\RegFromFile.c(22,55): warning C4098: 'RegFromFile': 'void' 함수에서 값을 반환하고 있습니다.
+D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\프로젝트-4\Project_4\RegFromFile.c(27,54): warning C4098: 'RegFromFile': 'void' 함수에서 값을 반환하고 있습니다.
+  Project_4.vcxproj -> D:\Geun\코딩\Source(C)\Sejong\고급C프로그래밍\프로젝트-4\Debug\Project_4.exe
